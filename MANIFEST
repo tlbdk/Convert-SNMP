@@ -1,0 +1,7 @@
+MANIFEST			This list of files
+MANIFEST.SKIP
+Build.PL
+ChangeLog
+Makefile.PL
+META.yml
+README
