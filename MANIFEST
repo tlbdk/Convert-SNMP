@@ -1,7 +1,7 @@
+Build.PL
 ChangeLog
 lib/Convert/SNMP.pm
 MANIFEST			This list of files
-MANIFEST.SKIP
 t/00-load.t
 t/96-perlcritic.t
 t/98-pod-syntax.t
