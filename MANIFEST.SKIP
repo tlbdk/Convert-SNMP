@@ -1,0 +1,5 @@
+.git
+blib
+Build
+_build
+^.+\.bak$

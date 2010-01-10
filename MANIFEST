@@ -1,7 +1,9 @@
+ChangeLog
+lib/Convert/SNMP.pm
 MANIFEST			This list of files
 MANIFEST.SKIP
-Build.PL
-ChangeLog
-Makefile.PL
-META.yml
-README
+t/00-load.t
+t/96-perlcritic.t
+t/98-pod-syntax.t
+t/99-pod-coverage.t
+t/perlcriticrc
